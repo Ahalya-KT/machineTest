@@ -324,3 +324,9 @@ header {
   background: #b1e6f8;
   padding: 1rem;
 }
+
+.section4 {
+  display: flex;
+  gap: 2rem;
+  padding-top: 3rem;
+}
